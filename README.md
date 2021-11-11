@@ -1,8 +1,8 @@
 ## Muito prazer, meu nome é Antônio!
-Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e atualmente estudo desenvolvimento front-end. 
-No momento, meu foco é aprimorar minhas habilidades em ReactJS e Typescript.
+Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e atualmente estudo desenvolvimento web. 
+No momento, meu foco é aprimorar minhas habilidades em ReactJS Typescript.
 
-#### Em busca de um estágio em desenvolvimento front-end.
+#### Em busca de um estágio em desenvolvimento web.
  <div>
   <a href="https://github.com/aq-simei">
    <style="display: inline_block" align="center">
