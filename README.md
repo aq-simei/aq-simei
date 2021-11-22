@@ -1,6 +1,6 @@
 ## Muito prazer, meu nome é Antônio!
 Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e atualmente estudo desenvolvimento web. 
-No momento, meu foco é aprimorar minhas habilidades em ReactJS Typescript.
+No momento, meu foco é aprimorar minhas habilidades em ReactJS, NodeJS e Typescript.
 
 #### Em busca de um estágio em desenvolvimento web.
  <div>
