@@ -1,6 +1,6 @@
 ## Muito prazer, meu nome é Antônio!
 Sou estudante de engenharia na Escola de Engenharia de São Carlos (EESC - USP) e desenvolvedor trainee. 
-No momento, meu foco é aprofundar meus conhecimentos em desenvolvimento Web.
+No momento, meu foco é aprofundar meus conhecimentos em desenvolvimento Front-End.
 
  <div>
   <a href="https://github.com/aq-simei">
