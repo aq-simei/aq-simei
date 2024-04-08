@@ -2,3 +2,9 @@
 - 🙇🏽‍♂️ My name is Antônio and I am a Software Engineer focused on bringing better and faster solutions through programming.
 - 💻 I am currently finalizing a Material Engineering bachelor and I am working as an Android Software Engineer Intern at Venturus.
 - 📫 Reach me: aq.simei@gmail.com
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aq-simei/aq-simei/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aq-simei/aq-simei/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aq-simei/aq-simei/output/github-contribution-grid-snake.svg">
+</picture>
